@@ -3,7 +3,7 @@
 
 **Author:** Ranveer S. Gahlot
 
-Summary: This repo contains the data and notes for a student project that analyzes influenza HA sequence variations to identify mutations. The repo mainly contains analysis notes and result images. Please see `journal.md` for a log.
+Summary: This repo contains the data and notes for a student project that analyzes influenza HA sequence variations to identify mutations. The repo mainly contains analysis notes, metadata and result images. Please see `journal.md` for a log.
 
 Folders:
 - `01_data/`: raw data, small metadata files
