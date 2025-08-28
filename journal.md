@@ -1,0 +1,3 @@
+# Journal
+
+Placeholder text.
