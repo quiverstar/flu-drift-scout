@@ -11,4 +11,4 @@ Folders:
 - `03_analysis/`: ImageJ outputs, comparisons
 - `04_results/`: summary, final plots, conclusions
 
-**Note on restricted data:** Please do NOT upload restricted GISAID FASTA files to this public repository. Instead, include instructions for how to download them locally and add a small `metadata.csv` with links or hashes.
+**Note to self on restricted data:** Please do NOT upload restricted GISAID FASTA files to this public repository. Instead, include instructions for how to download them locally and add a small `metadata.csv` with links or hashes.
